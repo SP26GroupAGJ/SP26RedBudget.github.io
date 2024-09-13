@@ -46,7 +46,6 @@ li{
 }
 li:last-child {
     border-right: none;
-    color: black;
 }
 li a{
     display: block;
@@ -60,4 +59,5 @@ li a:hover:not(.active) {
 }
 .active {
     background-color: #ddd600;
+    color: black;
   }
