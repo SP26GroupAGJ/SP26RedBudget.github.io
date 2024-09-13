@@ -42,10 +42,11 @@ ul {
 }
 li{
     float: left;
-    border-right: 1px solid #bbb;
+    border-right: 1px solid #000000;
 }
 li:last-child {
     border-right: none;
+    color: black;
 }
 li a{
     display: block;
