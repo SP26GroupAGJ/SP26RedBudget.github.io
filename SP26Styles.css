@@ -59,5 +59,13 @@ li a:hover:not(.active) {
 }
 .active {
     background-color: #ddd600;
-    color: #0000000;
+    color: #000000;
   }
+main { 
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFFFFF;
+    margin-left: 170px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
